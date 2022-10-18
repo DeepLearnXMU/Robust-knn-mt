@@ -2,7 +2,7 @@ Code for our EMNLP 2022 paper "Towards Robust k-Nearest-Neighbor Machine Transla
 
 
 The source code is developed upon adaptive kNN-MT.
-You can see detail in https://github.com/zhengxxn/adaptive-knn-mt.
+You can see detail in https://github.com/zhengxxn/adaptive-knn-mt, many thanks to the authors for making their code avaliable.
 
 ## Requirements and Installation
 
